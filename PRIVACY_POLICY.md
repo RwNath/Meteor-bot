@@ -7,5 +7,4 @@ Cela peut-être des identifiants d'utilisateurs, des serveurs...
 # Utilisation des Données 
 Les données collectés sont utilisées dans le but d'améliorer votre expérience avec Meteor Bot, exemple : Les logs (messages supprimés, édités).
 # Divulgation des Données
-Nous ne vendons pas vos données. Nous sommes toutefois contraint aux lois en vigeur en France, dans l'Union Européenne et aux Etats-
-Unis. Nous pouvons divulguer vos données dans un cas d'une demande judiciaire.
+Nous ne vendons pas vos données. Nous sommes toutefois contraint aux lois en vigeur en France, dans l'Union Européenne et aux Etats Unis. Nous pouvons divulguer vos données dans un cas d'une demande judiciaire.
