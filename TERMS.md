@@ -5,6 +5,8 @@ Vous devez respecter les directives et conditions d'utilisation de Discord (http
 tout temps lors de l'utilisation de Meteor Bot.
 # Utilisation Appropriée 
 Vous ne pouvez pas utiliser Meteor Bot pour diffuser du contenu illégal, discriminatoire, offensant... 
+# Propriété Intellectuelle : 
+Tous les droits de propriété intellectuelle liés à Meteor Bot restent notre propriété. Vous ne pouvez pas copier, modifier ou distribuer le bot sans autorisation.
 # Modifications et résiliation
 Le créateur du bot se réserve le droit de modifier, suspendre ou résiler les services de Meteor Bot à tout moment.
 # Acceptation des conditions
