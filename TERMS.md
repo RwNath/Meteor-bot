@@ -1,4 +1,4 @@
-# Conditions d'utilisation de Meteor Bot
+# Conditions d'utilisations de Meteor Bot
 En utilisant Meteor Bot, vous acceptez les conditions suivantes : 
 # Respect des directives de Discord
 Vous devez respecter les directives et conditions d'utilisation de Discord (https://discord.com/guidelines, https://discord.com/terms) en 
